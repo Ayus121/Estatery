@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import { GiHamburgerMenu } from 'react-icons/gi'
-// import { MdOutlineRestaurantMenu } from 'react-icons/md'
 import { Button } from "@mui/material";
-// import Stack from "@mui/material/Stack";
 import { FaEnvelopeOpen} from "react-icons/fa";
 import {BsXLg} from 'react-icons/bs'
 import "./css/Navbar.css"
