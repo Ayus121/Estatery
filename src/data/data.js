@@ -1,0 +1,111 @@
+const mainData = [
+	{	
+		movein:"02/10/2022",
+		image:"images/1.jpg",
+		price:"2095",
+		name:"Palm Harbor",
+		type:"house",
+		address:"2699 Green Valley HighLand Lake,Florida",
+		location:"Florida",
+		bed:"3 Beds",
+		bathroom:"2 Bathroom",
+		size:"8 x 10m^2"
+	},
+	{
+		movein:"12/10/2022",
+		image:"images/2.jpg",
+		price:"2055",
+		name:"Sweet Home",
+		type:"Bungalow",
+		address:"26 TownStreet,California",
+		location:"California",
+		bed:"2 Beds",
+		bathroom:"2 Bathroom",
+		size:"6 x 9m^2"
+	},
+	{
+		movein:"9/10/2022",
+		image:"images/3.jpg",
+		price:"2995",
+		name:"The Villa",
+		type:"Villa",
+		address:"29 Indian Society,Chicago",
+		location:"Chicago",
+		bed:"4 Beds",
+		bathroom:"3 Bathroom",
+		size:"12 x 14m^2"
+	},
+	{	
+		movein:"01/10/2022",
+		image:"images/4.jpg",
+		price:"2095",
+		name:"Tom Harbor",
+		type:"house",
+		address:"29 Breathe Air,Florida",
+		location:"Florida",
+		bed:"3 Beds",
+		bathroom:"2 Bathroom",
+		size:"8 x 10m^2"
+	},
+	{
+		movein:"05/10/2022",
+		image:"images/5.jpg",
+		price:"2055",
+		name:"Smart Living",
+		type:"Bungalow",
+		address:"6 TownPark,California",
+		location:"California",
+		bed:"2 Beds",
+		bathroom:"2 Bathroom",
+		size:"6 x 9m^2"
+	},
+	{
+		movein:"15/09/2022",
+		image:"images/6.jpg",
+		price:"2905",
+		name:"The Mansion",
+		type:"Villa",
+		address:"29 White Society,Chicago",
+		location:"Chicago",
+		bed:"4 Beds",
+		bathroom:"3 Bathroom",
+		size:"10 x 12m^2"
+	},
+	{	
+		movein:"07/10/2022",
+		image:"images/7.jpg",
+		price:"2095",
+		name:"Drake's House",
+		type:"house",
+		address:"99 Green Park,Florida",
+		location:"Florida",
+		bed:"3 Beds",
+		bathroom:"2 Bathroom",
+		size:"8 x 10m^2"
+	},
+	{
+		movein:"03/10/2022",
+		image:"images/8.jpg",
+		price:"2755",
+		name:"James Town",
+		type:"Bungalow",
+		address:"2 RohnValley,Texas",
+		location:"Texas",
+		bed:"2 Beds",
+		bathroom:"2 Bathroom",
+		size:"7 x 9m^2"
+	},
+	{
+		movein:"08/10/2022",
+		image:"images/9.jpg",
+		price:"3000",
+		name:"My House",
+		type:"House",
+		address:"2 WalkStreet,Washington",
+		location:"Washington",
+		bed:"2 Beds",
+		bathroom:"2 Bathroom",
+		size:"6 x 7m^2"
+	},
+	]
+export default mainData;

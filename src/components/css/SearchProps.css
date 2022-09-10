@@ -1,0 +1,28 @@
+.search-box{
+	display: flex;
+	justify-content: space-between;
+	padding: 40px 90px;
+	height: 80px;
+	
+}
+/* Responsive Code */
+@media screen and (max-width:1200px) {
+	.search-box{
+		/* display: block; */
+	}
+	.search-btn{
+		margin-top: .5rem;
+	}
+}
+@media screen and (max-width:650px) {
+	.search-box{
+		display: block;
+	}
+	.search-heading{
+		max-width: 50px;
+	}
+	.p__opensans{
+		text-overflow: inherit;
+		word-wrap:  initial;
+	}
+}
